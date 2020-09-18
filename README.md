@@ -1,6 +1,8 @@
 # Python Homework - Py Me Up, Charlie
 
+
 ## PyBank
+
 
 ![Revenue](Images/revenue-per-lead.png)
 
@@ -32,7 +34,10 @@
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
+
+
 ## PyPoll
+
 
 ![Vote Counting](Images/Vote_counting.png)
 
