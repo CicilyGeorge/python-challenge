@@ -1,4 +1,4 @@
-#Home work PyBank
+
 import os
 import csv
 
